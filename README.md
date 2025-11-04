@@ -93,3 +93,9 @@ Submit new password → success.
 
 Reuse the same link → should fail (token cleared/expired).
 ```
+
+📄 License & Contact
+
+This project is for learning/portfolio use.
+If you want improvements or frontend integration, open an issue or contact: jayachandran.k30@gmail.com
+https://www.linkedin.com/in/jayachandran-k-6312ab376
