@@ -32,8 +32,10 @@ mongoose
 // Routes
 const authRoutes = require("./routes/auth");
 const protectedRoutes = require("./routes/protected");
+const profileRoutes = require("./routes/profile");
 app.use("/api/auth", authRoutes);
 app.use("/api", protectedRoutes);
+app.use("/api/profile", profileRoutes);
 
 
 // Start server
